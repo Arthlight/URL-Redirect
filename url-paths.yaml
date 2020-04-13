@@ -1,0 +1,5 @@
+- path: /cats
+  url: https://en.wikipedia.org/wiki/Cat
+
+- path: /dogs
+  url: https://en.wikipedia.org/wiki/Dog
