@@ -1,6 +1,5 @@
 # Paths and their respective redirect URLs
 
-{
-  /cats: https://en.wikipedia.org/wiki/Cat,
-  /dogs: https://en.wikipedia.org/wiki/Dog,
-}
+/cats: https://en.wikipedia.org/wiki/Cat
+/dogs: https://en.wikipedia.org/wiki/Dog
+
